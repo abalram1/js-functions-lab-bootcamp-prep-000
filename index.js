@@ -1,4 +1,6 @@
 // write your code below!
 function happyHolidays() {
-  concole.log
+  concole.log("Happy holidays!")
 }
+
+function happyHolidaysTo(name){}
